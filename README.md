@@ -1,1 +1,1 @@
-# Stocks_Stream_app
+# Stocks_Streamlit_app
