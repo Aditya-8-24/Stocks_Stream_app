@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title('Nifty Stocks Price Visualizer')
 
 # Load data
-df = pd.read_csv('../Nifty_Stocks.csv')
+df = pd.read_csv('Nifty_Stocks.csv')
 df['Date'] = pd.to_datetime(df['Date'])
 
 # Show category options
